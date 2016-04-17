@@ -1,0 +1,10 @@
+{
+  "name": "LearnMEANStack",
+  "version": "0.0.0",
+  "description": "LearnMEANStack",
+  "main": "app.js",
+  "author": {
+    "name": "XingW",
+    "email": ""
+  }
+}
